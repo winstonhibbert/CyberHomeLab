@@ -1,6 +1,7 @@
 # CyberHomeLab
 Set up a basic home SOC in Azure. Using a free Azure subscription, went through creating a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central repository. Then integrate Microsoft Sentinel to analyze real-world attack data.
 
+![image](https://github.com/user-attachments/assets/66a7ba3b-3f20-49aa-b545-46ab5b578b12)
 
  <h1>Part 1: Setup Azure Subscription</h1>
 
